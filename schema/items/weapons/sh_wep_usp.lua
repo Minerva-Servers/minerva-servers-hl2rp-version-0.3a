@@ -1,0 +1,5 @@
+ITEM.name = "H&K USP Match"
+ITEM.description = "A sidearm utilising 9mm Ammunition."
+ITEM.model = "models/weapons/w_pistol.mdl"
+ITEM.class = "arccw_minerva_usp"
+ITEM.weaponCategory = "sidearm"

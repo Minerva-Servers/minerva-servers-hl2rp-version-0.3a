@@ -1,0 +1,5 @@
+ITEM.name = "Stunstick"
+ITEM.description = "A baton which can be electrefied, to beat your own meat."
+ITEM.model = "models/weapons/w_stunbaton.mdl"
+ITEM.class = "ix_stunstick"
+ITEM.weaponCategory = "melee"

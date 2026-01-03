@@ -1,0 +1,9 @@
+"minervahl2rp"
+{
+    "base"              "helix"
+    "title"             "Minerva: Half-Life 2 Roleplay"
+    "author"            "Riggs"
+    "menusystem"        "1"
+    "category"          "rp"
+    "maps"              "^rp_"
+}

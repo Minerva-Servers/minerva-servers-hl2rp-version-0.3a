@@ -1,0 +1,5 @@
+ITEM.name = "Manual IED"
+ITEM.description = "An IED which is triggered by the possessor. Is this a sacrifice you'd willing to make?"
+ITEM.model = "models/weapons/w_c4.mdl"
+ITEM.class = "ix_ied"
+ITEM.weaponCategory = "gear"

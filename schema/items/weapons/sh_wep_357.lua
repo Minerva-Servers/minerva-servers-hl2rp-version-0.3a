@@ -1,0 +1,5 @@
+ITEM.name = "Colt Python Revolver"
+ITEM.description = "A sidearm utilising .357 Caliber ammunition."
+ITEM.model = "models/weapons/w_357.mdl"
+ITEM.class = "arccw_minerva_329"
+ITEM.weaponCategory = "sidearm"
